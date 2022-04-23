@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bignumber.js": "^9.0.2",
+    "core-js": "^3.22.2",
+    "web3": "^1.7.3"
+  },
+  "name": "nft_opensea_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rocktyy",
+  "license": "MIT"
+}
